@@ -1,3 +1,6 @@
+
+![graphQL logo](img/GraphQL-logo.png)
+
 ## Description
 
 This uses the nodeJs Axios library to query a subgraph with graphQL query.
@@ -27,7 +30,7 @@ If a dApp is using GRT they likely have a reserve wallet containing GRT coins to
 In theory, it is possible to require the users to pay for data retrieval costs on a dApp however, this has obvious usability and inefficiency
 concerns. 
 
-In normal HTTP GET requests there are DDOS attacks.  HTTP POST requests are susceptible to smugging attacks where an attacker can modify 
+In normal HTTP GET requests there are DDOS attacks.  HTTP POST requests are susceptible to smuggling attacks where an attacker can modify 
 the data being sent to the server and (in some cases) changing the response they get back. I am curious how theGraph shields itself from these 
 attacks.
 

@@ -1,6 +1,3 @@
-
-![graphQL logo](img/GraphQL-logo.png)
-
 ## Description
 
 This uses the nodeJs Axios library to query a subgraph with graphQL query.
